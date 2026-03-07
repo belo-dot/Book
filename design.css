@@ -107,7 +107,6 @@ transform: scale(1.05);
 
 /* ===== BUTTON ===== */
 button {
-  width: 30%;
   padding: 8px;
   margin: 25px auto;  
   display: block; 
